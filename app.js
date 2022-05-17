@@ -45,10 +45,6 @@ let passwPattern = /^[A-a]{1}[a-z0-9]{4,}[`~!@#$%^&*()}{'";:/?.>,<\[\]_+-\=|]*$/
 console.log(passwPattern.test(passw));
 
 
-//  let password ="112ashA@.";
-// // let passwordPattern =/^[0-9a-z]*[A-Z]([*.!@#$%^&:;<>,.]){1,}$/;
-// let passwordPattern =/^[0-9a-z]*[A-Z]([*.!@#$%^&(){}[]){1,}$/;
-// console.log(passwordPattern.test(password));
 
 /**
  * #Create a zipcode pattern
